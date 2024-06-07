@@ -39,7 +39,7 @@ Merhaba! Ben Buğrahan Şimşek, yazılım geliştiricisi ve teknoloji meraklıs
 ### [Gayrimenkul Veri Analizi](https://github.com/bugrahansimsek/real-estate-data-analysis)
 - Gayrimenkul verileriyle Python kullanılarak gerçekleştirilen veri analizi.
 
-### [PostgreSQL ile Veri Analizi](https://github.com/bugrahansimsek/sql-reporting)
+### [PostgreSQL ile Veri Analizi](https://github.com/bugrahansimsek/SQL-PROJECT)
 - Global bir şirket için satış verilerinin PostgreSQL kullanılarak raporlanması ve görselleştirilmesi.
 
 ### [RFM Analizi](https://github.com/bugrahansimsek/rfm-analysis)
