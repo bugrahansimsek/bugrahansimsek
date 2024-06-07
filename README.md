@@ -25,6 +25,25 @@ Merhaba! Ben Buğrahan Şimşek, yazılım geliştiricisi ve teknoloji meraklıs
 - **BTK AKADEMİ:** Uygulamalarla SQL Öğreniyorum
 - **BTK AKADEMİ:** C# Programlama
 
-## İstatistiklerim
-![Buğrahan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=bugrahansimsek&show_icons=true&theme=radical)
+  ## Projeler
 
+### [EXCEL ile Veri Analizi](https://github.com/bugrahansimsek/sales-dashboard)
+- Excel ile yıllık satış verilerinin raporlanması ve görselleştirilmesi.
+
+### [Gayrimenkul Fiyatlandırma Uygulaması](https://github.com/bugrahansimsek/real-estate-pricing)
+- C# kullanarak gayrimenkul uygulaması geliştirilmesi.
+
+### [Araç Kiralama Otomasyonu](https://github.com/bugrahansimsek/car-rental-system)
+- Araç kiralama otomasyon sistemi C# ve SQL kullanılarak tasarlanmıştır.
+
+### [Gayrimenkul Veri Analizi](https://github.com/bugrahansimsek/real-estate-data-analysis)
+- Gayrimenkul verileriyle Python kullanılarak gerçekleştirilen veri analizi.
+
+### [PostgreSQL ile Veri Analizi](https://github.com/bugrahansimsek/sql-reporting)
+- Global bir şirket için satış verilerinin PostgreSQL kullanılarak raporlanması ve görselleştirilmesi.
+
+### [RFM Analizi](https://github.com/bugrahansimsek/rfm-analysis)
+- Bir e-ticaret firmasının verileri ile müşterilerinin ve pazarlarının yeniliği, sıklığı ve parasal değerlerinin Python ortamında analizi.
+
+### [PYTHON ile Veri Analizi ] (https://github.com/bugrahansimsek/PYTHON-PROJECT.git)
+- Kaggle'dan alınan Nobel veri setini kullanarak Python kütüphaneleriyle veriyi anlamlandırıp görselleştirilmesi.
