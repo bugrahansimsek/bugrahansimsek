@@ -45,5 +45,5 @@ Merhaba! Ben Buğrahan Şimşek, yazılım geliştiricisi ve teknoloji meraklıs
 ### [RFM Analizi](https://github.com/bugrahansimsek/rfm-analysis)
 - Bir e-ticaret firmasının verileri ile müşterilerinin ve pazarlarının yeniliği, sıklığı ve parasal değerlerinin Python ortamında analizi.
 
-### [PYTHON ile Veri Analizi ] (https://github.com/bugrahansimsek/PYTHON-PROJECT.git)
+### [PYTHON ile Veri Analizi ](https://github.com/bugrahansimsek/PYTHON-PROJECT.git)
 - Kaggle'dan alınan Nobel veri setini kullanarak Python kütüphaneleriyle veriyi anlamlandırıp görselleştirilmesi.
