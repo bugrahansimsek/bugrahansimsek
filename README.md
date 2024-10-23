@@ -46,18 +46,18 @@ Merhaba! Ben Buğrahan Şimşek, **veri analitiği ve veri görselleştirme** al
 ## Projeler
 
 ### 📊 Veri Analizi ve Görselleştirme Projeleri
-- **[EXCEL ile Veri Analizi](https://github.com/bugrahansimsek/sales-dashboard):** Excel kullanarak bir şirketin yıllık satış verilerinin analizi yapılmış ve performans raporları oluşturulmuştur. Veriler grafiklerle görselleştirilerek daha iyi bir içgörü elde edilmiştir.
-- **[Spotify ve YouTube EDA](https://github.com/bugrahansimsek/spotify-youtube-eda):** Spotify ve YouTube verileri üzerinde Python kullanarak EDA yapılmıştır. Sanatçı performansları, şarkı popülerliği ve kullanıcı etkileşimleri analiz edilmiştir.
-- **[Hotel Booking Power BI Dashboard](https://github.com/bugrahansimsek/hotel-booking-dashboard):** Otel rezervasyon verilerini analiz eden bir Power BI dashboard'u oluşturulmuştur. Müşteri davranışları ve doluluk oranları üzerine detaylı raporlamalar yapılmıştır.
+- **[EXCEL ile Veri Analizi](https://github.com/bugrahansimsek/Sales-Dashboard):** Excel kullanarak bir şirketin yıllık satış verilerinin analizi yapılmış ve performans raporları oluşturulmuştur. Veriler grafiklerle görselleştirilerek daha iyi bir içgörü elde edilmiştir.
+- **[Spotify ve YouTube EDA](https://github.com/bugrahansimsek/Spotify-and-Youtube-EDA):** Spotify ve YouTube verileri üzerinde Python kullanarak EDA yapılmıştır. Sanatçı performansları, şarkı popülerliği ve kullanıcı etkileşimleri analiz edilmiştir.
+- **[Hotel Booking Power BI Dashboard](https://github.com/bugrahansimsek/Hotel-Booking-PowerBI-Dashboard):** Otel rezervasyon verilerini analiz eden bir Power BI dashboard'u oluşturulmuştur. Müşteri davranışları ve doluluk oranları üzerine detaylı raporlamalar yapılmıştır.
 
 ### 🔍 SQL ve Python Projeleri
 - **[PostgreSQL ile Veri Analizi](https://github.com/bugrahansimsek/SQL-PROJECT):** Bir global şirketin satış verileri PostgreSQL kullanılarak analiz edilmiş ve raporlanmıştır. Veriler SQL sorguları ile temizlenmiş, dönüştürülmüş ve görselleştirilmiştir.
-- **[RFM Analizi](https://github.com/bugrahansimsek/rfm-analysis):** Bir e-ticaret firmasının müşterilerini yenilik, sıklık ve parasal değerlerine göre segmentlere ayırmak için Python kullanarak RFM analizi gerçekleştirilmiştir.
-- **[PYTHON ile Veri Analizi ](https://github.com/bugrahansimsek/PYTHON-PROJECT.git):** Nobel ödülleri verileri kullanılarak Python kütüphaneleriyle veri analiz edilmiştir. Çeşitli kategorilerdeki ödül dağılımları incelenmiş ve görselleştirilmiştir.
+- **[RFM Analizi](https://github.com/bugrahansimsek/RFM-Analysis):** Bir e-ticaret firmasının müşterilerini yenilik, sıklık ve parasal değerlerine göre segmentlere ayırmak için Python kullanarak RFM analizi gerçekleştirilmiştir.
+- **[PYTHON ile Veri Analizi ](https://github.com/bugrahansimsek/PYTHON-PROJECT):** Nobel ödülleri verileri kullanılarak Python kütüphaneleriyle veri analiz edilmiştir. Çeşitli kategorilerdeki ödül dağılımları incelenmiş ve görselleştirilmiştir.
 
 ### ⭐ Öne Çıkan Projeler
-- **[Northwind Traders Capstone Project](https://github.com/bugrahansimsek/northwind-capstone):** Northwind Traders veri seti kullanılarak satış, müşteri ve sipariş verileri analiz edilmiştir. Excel, Python, SQL ve Power BI kullanılarak karar destek sistemleri oluşturulmuştur.
+- **[Northwind Traders Capstone Project](https://github.com/bugrahansimsek/Northwind-Traders-Capstone-Project):** Northwind Traders veri seti kullanılarak satış, müşteri ve sipariş verileri analiz edilmiştir. Excel, Python, SQL ve Power BI kullanılarak karar destek sistemleri oluşturulmuştur.
 - **[Teneke Kafalar Twitch-YouTube Kanalı Analizi](https://github.com/bugrahansimsek/TenekeKafalarTwitch-YoutubeChannel-Analysis):** 'Teneke Kafalar Twitch' YouTube kanalına ait veriler, Google Cloud API anahtarı kullanılarak Python ile çekildi ve .csv dosyasına dönüştürüldü. Veriler Excel'de manipüle edildikten sonra Power BI'da analiz gerçekleştirildi.
 
-![Teneke Kafalar Analizi Görseli](https://github.com/bugrahansimsek/TenekeKafalarTwitch-YoutubeChannel-Analysis/teneke_kafalar_analysis_1.png)
+![Teneke Kafalar Analizi Görseli](https://github.com/bugrahansimsek/TenekeKafalarTwitch-YoutubeChannel-Analysis/blob/main/1.png)
 
