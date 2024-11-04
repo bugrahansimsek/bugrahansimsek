@@ -59,5 +59,4 @@ Merhaba! Ben Buğrahan Şimşek, **veri analitiği ve veri görselleştirme** al
 - **[Northwind Traders Capstone Project](https://github.com/bugrahansimsek/Northwind-Traders-Capstone-Project):** Northwind Traders veri seti kullanılarak satış, müşteri ve sipariş verileri analiz edilmiştir. Excel, Python, SQL ve Power BI kullanılarak karar destek sistemleri oluşturulmuştur.
 - **[Teneke Kafalar Twitch-YouTube Kanalı Analizi](https://github.com/bugrahansimsek/TenekeKafalarTwitch-YoutubeChannel-Analysis):** 'Teneke Kafalar Twitch' YouTube kanalına ait veriler, Google Cloud API anahtarı kullanılarak Python ile çekildi ve .csv dosyasına dönüştürüldü. Veriler Excel'de manipüle edildikten sonra Power BI'da analiz gerçekleştirildi.
 
-![Teneke Kafalar Analizi Görseli](https://github.com/bugrahansimsek/TenekeKafalarTwitch-YoutubeChannel-Analysis/blob/main/TenekeKafalarTwitch.gif)
-
+![Teneke Kafalar Analizi Görseli](https://github.com/bugrahansimsek/TenekeKafalarTwitch-YoutubeChannel-Analysis/blob/main/Teneke%20Kafalar%20Twitch.gif)
