@@ -32,7 +32,7 @@ Merhaba! Ben Buğrahan Şimşek, **veri analitiği ve veri görselleştirme** al
   - SQL ile Sorgulama ve Veritabanları
   - Power BI ile Veri Görselleştirme
   - E-Ticarette Veri Analitiği
-- **IBM:** IBM Data Science Professional Certificate (V3)
+- **IBM:** Data Science Professional Certificate (V3)
   - What is Data Science?
   - Tools for Data Science
   - Data Science Methodology
