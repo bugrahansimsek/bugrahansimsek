@@ -12,7 +12,7 @@ Merhaba! Ben Buğrahan Şimşek, **veri analitiği ve veri görselleştirme** al
 - [LinkedIn](https://www.linkedin.com/in/bugrahansimsek)
 
 ## Diller ve Araçlar
-- **Programlama Dilleri:** Python (İleri), C# (Orta)
+- **Programlama Dilleri:** Python (İleri), C# (Orta), C++ (Orta)
 - **Veritabanları:** PostgreSQL (İleri), SQL
 - **Veri Görselleştirme:** PowerBI (İleri), Excel (İleri)
 - **Araçlar ve Teknolojiler:** Microsoft Office (İleri), Telekomünikasyon Teknolojileri (İleri)
