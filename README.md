@@ -18,7 +18,7 @@ Merhaba! Ben Buğrahan Şimşek, **veri analitiği ve veri görselleştirme** al
 - **Araçlar ve Teknolojiler:** Microsoft Office (İleri), Telekomünikasyon Teknolojileri (İleri)
 
 ### Anahtar Yeteneklerim:
-`Python`, `SQL`, `Power BI`, `PostgreSQL`, `Excel`, `Veri Analizi`, `Veri Görselleştirme`
+`Python`,`C++`,`C#`, `SQL`, `Power BI`, `PostgreSQL`, `Excel`, `Veri Analizi`, `Veri Görselleştirme`
 
 ## Eğitim
 - **Anadolu Üniversitesi** - Bilgisayar Programcılığı (2022/2024)
@@ -45,6 +45,9 @@ Merhaba! Ben Buğrahan Şimşek, **veri analitiği ve veri görselleştirme** al
   - Applied Data Science Capstone
   - Generative AI: Elevate Your Data Science Career
   - Data Scientist Career Guide and Interview Preparation
+- **UDEMY:** Python | Sıfırdan İleri Seviye Programlama
+- **UDEMY:** C++ | Sıfırdan Uzmanlığa NesneTabanlı Programlama
+- **UDEMY:** C++ ile Projeler | Qt C++
 - **BTK AKADEMİ:** Bilgi Teknolojilerine Giriş
 - **BTK AKADEMİ:** Veri Bilimi için Temel İstatistik
 - **BTK AKADEMİ:** Uygulamalarla SQL Öğreniyorum
@@ -54,7 +57,6 @@ Merhaba! Ben Buğrahan Şimşek, **veri analitiği ve veri görselleştirme** al
 - **BTK AKADEMİ:** Çevik Proje Yönetimi
 - **MIUUL:** Veri Bilimi ve Yapay Zekaya Giriş
 - **MIUUL:** Python Programlama ve Veri Bilimi
-- **UDEMY:** Python | Sıfırdan İleri Seviye Programlama
 
 ## Projeler
 
