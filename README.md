@@ -22,7 +22,8 @@ Merhaba! Ben Buğrahan Şimşek, **veri analitiği ve veri görselleştirme** al
 
 ## Eğitim
 - **Anadolu Üniversitesi** - Bilgisayar Programcılığı (2022/2024)
-- **Anadolu Üniversitesi** - Yönetim Bilişim Sistemleri Lisans (Devam Ediyor)
+- **Anadolu Üniversitesi** - Yönetim Bilişim Sistemleri Lisans (2024/2026)
+- **Atatürk Üniversitesi** - Yönetim Bilişim Sistemleri Yüksek Lisans (Master)(2026/DEVAM)
 
 ## Sertifikalar
 - **KODLASAM:** Data Analyst Bootcamp (2023-2024)
